@@ -1,0 +1,32 @@
+body{
+
+min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:#008fff;
+}
+ h1{
+  color:black;
+  border-top:20px;
+  vertical-align:cenetr;
+  width: 300px;
+  border-width: 25px;
+  box-shadow:15px;
+  padding: 50px;
+  margin-top: 20px;
+}
+form .input-box input{
+  color: #333;
+  height: 50%;
+  width: 50%;
+  outline: none;
+  padding: 0 15px;
+  font-size: 17px;
+  font-weight: 400;
+  border: 1.5px solid #C7BEBE;
+  border-bottom-width: 2.5px;
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-family: cursive; 
+}
